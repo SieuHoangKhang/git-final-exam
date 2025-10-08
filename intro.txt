@@ -1,4 +1,4 @@
-Xin chào, tôi là Trần Siêu Hoàng Khang.
+Hello, this is Tran Sieu Hoan Khang
 Tôi đang học môn Mã Nguồn Mở.
 Tôi yêu thích công nghệ và lập trình.
 Tôi muốn thành thạo Git và GitHub.
