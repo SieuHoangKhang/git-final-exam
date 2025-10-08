@@ -1,0 +1,5 @@
+Tinh nang moi: Quan ly thong tin nha cung cap tu dong.
+- Muc tieu: Giam thao tac thu cong.
+- Dong bo du lieu theo thoi gian thuc.
+- Giao dien than thien, de su dung.
+- Co kha nang mo rong trong tuong lai.
