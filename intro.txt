@@ -1,0 +1,15 @@
+Xin chào, tôi là Trần Siêu Hoàng Khang.
+Tôi đang học môn Mã Nguồn Mở.
+Tôi yêu thích công nghệ và lập trình.
+Tôi muốn thành thạo Git và GitHub.
+Tôi hướng tới làm việc nhóm chuyên nghiệp hơn.
+
+Sở thích:
+- Đọc sách
+- Code
+- Nghe nhạc
+
+Kỹ năng:
+- HTML
+- CSS
+- Git
