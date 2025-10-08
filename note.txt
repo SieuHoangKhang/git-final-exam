@@ -1,4 +1,3 @@
 - Git giup toi lam viec co to chuc hon.
 - De dang kiem soat phien ban.
 - Giup lam viec nhom hieu qua.
-- Da hieu hon ve lenh reset va revert.
