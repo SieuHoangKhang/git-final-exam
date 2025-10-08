@@ -1,4 +1,5 @@
 Hello, this is Tran Sieu Hoan Khang
+Xin chào, tôi là Trần Siêu Hoàn Khang
 Tôi đang học môn Mã Nguồn Mở.
 Tôi yêu thích công nghệ và lập trình.
 Tôi muốn thành thạo Git và GitHub.
@@ -20,3 +21,5 @@ Kỹ năng:
 - Làm bài tập tạo xung đột và xử lý merge.
 - Đọc thêm tài liệu Git nâng cao.
 - Ứng dụng GitHub trong dự án nhóm.
+
+Conflict resolved on 08/10/2025
