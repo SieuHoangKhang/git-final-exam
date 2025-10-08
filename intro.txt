@@ -13,3 +13,10 @@ Kỹ năng:
 - HTML
 - CSS
 - Git
+
+## Kế hoạch học tập
+- Học lại các lệnh Git mỗi ngày.
+- Thực hành commit, branch, merge, revert.
+- Làm bài tập tạo xung đột và xử lý merge.
+- Đọc thêm tài liệu Git nâng cao.
+- Ứng dụng GitHub trong dự án nhóm.
